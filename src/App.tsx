@@ -434,11 +434,11 @@ export default function App() {
                 <div className="space-y-3">
                   <div className="flex items-center gap-3 text-brand-ink/80">
                     <Phone size={18} className="text-brand-accent" />
-                    <span className="text-lg font-mono tracking-tighter">+1 470 660 1371</span>
+                    <span className="text-lg font-mono tracking-tighter">+1 586 217 0759</span>
                   </div>
                   <div className="flex items-center gap-3 text-brand-ink/80">
                     <div className="w-[18px] h-[18px] bg-brand-accent rounded-full flex items-center justify-center text-[10px] text-white font-bold">K</div>
-                    <span className="text-lg font-serif italic">{t.footer.kakao} : <span className="font-sans not-italic font-medium ml-1">mingjei1301</span></span>
+                    <span className="text-lg font-serif italic">{t.footer.kakao} : <span className="font-sans not-italic font-medium ml-1">Shillaguest</span></span>
                   </div>
                 </div>
               </div>
